@@ -1,0 +1,27 @@
+body{
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+
+h1{
+    color:white;
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border:5px solid red;
+}
+
+a{
+    color:red;
+    background-color:rgb(255, 255, 255);
+}
+
+h2{
+    color:white;
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ 
+ul{
+    text-align:center;
+}
